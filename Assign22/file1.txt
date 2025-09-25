@@ -12,9 +12,3 @@ Enter their GitHub usernames or email IDs.
 Choose their permission level:
 
 Read → can only view/clone.
-
-Write → can push code.
-
-Admin → full control of repo.
-
-Click Add collaborator → They’ll get an email invitation to accept.
