@@ -1,1 +1,20 @@
-helllo Sachin
+
+Go to your GitHub repository.
+
+Click on Settings (⚙️ tab in the repo).
+
+On the left sidebar, click Collaborators and teams (in Access section).
+
+Click Add people.
+
+Enter their GitHub usernames or email IDs.
+
+Choose their permission level:
+
+Read → can only view/clone.
+
+Write → can push code.
+
+Admin → full control of repo.
+
+Click Add collaborator → They’ll get an email invitation to accept.
