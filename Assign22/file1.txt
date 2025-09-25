@@ -3,9 +3,8 @@ Go to your GitHub repository.
 
 Click on Settings (⚙️ tab in the repo).
 
-On the left sidebar, click Collaborators and teams (in Access section).
-
-Click Add people.
+Harsh pratsp singh
+sgm inter college
 
 Enter their GitHub usernames or email IDs.
 
